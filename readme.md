@@ -1,0 +1,1 @@
+http://omdbapi.com/apikey.aspx is used to get the API key. For the free key there is a limit of 1000 hits per day
